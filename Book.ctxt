@@ -12,4 +12,6 @@ comment5.params=gauthor
 comment5.target=void\ setAuthor(java.lang.String)
 comment6.params=
 comment6.target=void\ display()
-numComments=7
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
